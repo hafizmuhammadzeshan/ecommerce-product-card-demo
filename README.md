@@ -165,15 +165,15 @@ The demo includes 8 sample products with various scenarios:
 
 ### Desktop View
 
-![Desktop Demo](screenshots/desktop-demo.png)
+![Desktop Demo](screenshots/Desktop.png)
 
 ### Mobile View
 
-![Mobile Demo](screenshots/mobile-demo.png)
+![Mobile Demo](screenshots/mobile.png)
 
 ### Product Detail
 
-![Product Detail](screenshots/product-detail.png)
+![Product Detail](screenshots/detail.png)
 
 ## 🌟 Key Highlights
 
@@ -212,9 +212,8 @@ The demo includes 8 sample products with various scenarios:
 ## 📞 Contact
 
 **Developer:** Hafiz Muhammad Zeshan Akram  
-**Email:** [Add your email here]  
-**LinkedIn:** [Add your LinkedIn URL here]  
-**GitHub:** [Add your GitHub URL here]
+**Email:** hmzeshan6244@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/hafizmuhammadzeshandev/
 
 ---
 
